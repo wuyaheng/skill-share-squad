@@ -68,7 +68,7 @@ Navbar.propTypes = {
 
 Navbar.defaultProps = {
   title: 'Skill Share Squad',
-  icon: 'fab fa-viadeo'
+  icon: 'fab fa-slideshare'
 };
 
 export default Navbar;

@@ -49,7 +49,7 @@ const Login = (props) => {
 
         <div className='row mt-4'>
 
-        <div className="col-md-12 mb-4">
+        {/* <div className="col-md-12 mb-4">
         <h2 className='font mb-3 mt-1 text-center'>
             <b>Ramp Up Your Remote Collaboration with <u><span className='orange-text text-accent-3 i-line' style={{color: "#ff5e62"}}>Beamifi</span>
             </u>{" "}</b>
@@ -57,7 +57,7 @@ const Login = (props) => {
         
 
      
-        </div>
+        </div> */}
 
         <div className='col-md-8'>
           <img className='responsive-img' src={bg} alt="backgroundImg" />
@@ -65,7 +65,7 @@ const Login = (props) => {
 
 
      
-        <div className='col-md-4 mt-3' id="heading">
+        <div className='col-md-4 mt-3 pt-5' id="heading">
           <div className="form-container mt-3">
             <h1 className="text-center">
                 Account <span style={{color: "#ff5e62"}}>Login</span>
