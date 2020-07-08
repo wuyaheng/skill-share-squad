@@ -7,7 +7,7 @@ const Footer = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title">RampItUp with Beamifi</h5>
+            <h5 className="title">Skill It Up with Squad</h5>
             <p>
               Please feel free to contact us.
             </p>
@@ -15,7 +15,7 @@ const Footer = () => {
           <MDBCol md="6">
             <ul>
               <li className="list-unstyled">
-                <a href="#!">Email: beamifi@com</a>
+                <a href="#!">Email: skillsharesquad@com</a>
               </li>
               <li className="list-unstyled">
                 <a href="#!">Tel: 123-456-7890</a>
